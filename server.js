@@ -72,6 +72,9 @@ io.on('connection', socket => {
     });
 })
 
-const PORT = 5000 || process.env.PORT;
+const { PORT=3000, LOCAL_ADDRESS='0.0.0.0' } = process.env
 
-server.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+server.listen(PORT, LOCAL_ADDRESS, () => {
+    const address = server.address();
+    console.log('server listening at', address);
+  });
