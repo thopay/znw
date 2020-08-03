@@ -124,6 +124,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@th___mas(https://twitter.com/th___mas) - contact@th-mas.dev
+Your Name - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
 Project Link: [https://github.com/th-ms/znw](https://github.com/th-ms/znw)
