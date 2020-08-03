@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://i.gyazo.com/5bf403244adec2ebb73c65b13940efeb.png" alt="Logo" width="80" height="80">
+<img src="https://i.gyazo.com/5bf403244adec2ebb73c65b13940efeb.png">
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -92,7 +92,7 @@ npm run start
 
 After entering a room name, you'll be able to start chatting directly with anyone else in the room.
 
-<img src="https://i.gyazo.com/a6b2371f3270ed37e81ad1a057556c8d.png" alt="Logo" width="80" height="80">
+<img src="https://i.gyazo.com/a6b2371f3270ed37e81ad1a057556c8d.png">
 <!-- ROADMAP -->
 ## Roadmap
 
