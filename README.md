@@ -92,8 +92,7 @@ npm run start
 
 After entering a room name, you'll be able to start chatting directly with anyone else in the room.
 
-[![Product Name Screen Shot][product-screenshot]](https://i.gyazo.com/a6b2371f3270ed37e81ad1a057556c8d.png)
-
+<img src="https://i.gyazo.com/a6b2371f3270ed37e81ad1a057556c8d.png" alt="Logo" width="80" height="80">
 <!-- ROADMAP -->
 ## Roadmap
 
