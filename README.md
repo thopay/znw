@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.gyazo.com/5bf403244adec2ebb73c65b13940efeb.png)
+<img src="https://i.gyazo.com/5bf403244adec2ebb73c65b13940efeb.png" alt="Logo" width="80" height="80">
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
@@ -76,11 +76,11 @@ npm install npm@latest -g
 ```sh
 git clone https://github.com/th-ms/znw.git
 ```
-3. Install NPM packages
+2. Install NPM packages
 ```sh
 npm install
 ```
-4. Start the web server
+3. Start the web server
 ```sh
 npm run start
 ```
