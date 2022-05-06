@@ -7,14 +7,14 @@
   <p align="center">
     A lightweight anonymous chat platform.
     <br />
-    <a href="https://github.com/th-ms/znw"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thopay/znw"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://znw-me.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/th-ms/znw">Report Bug</a>
+    <a href="https://github.com/thopay/znw">Report Bug</a>
     ·
-    <a href="https://github.com/th-ms/znw">Request Feature</a>
+    <a href="https://github.com/thopay/znw">Request Feature</a>
   </p>
 </p>
 
@@ -71,7 +71,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/th-ms/znw.git
+git clone https://github.com/thopay/znw.git
 ```
 2. Install NPM packages
 ```sh
@@ -95,7 +95,7 @@ After entering a room name, you'll be able to start chatting directly with anyon
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/th-ms/znw/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thopay/znw/issues) for a list of proposed features (and known issues).
 
 
 
@@ -124,4 +124,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
-Project Link: [https://github.com/th-ms/znw](https://github.com/th-ms/znw)
+Project Link: [https://github.com/thopay/znw](https://github.com/thopay/znw)
